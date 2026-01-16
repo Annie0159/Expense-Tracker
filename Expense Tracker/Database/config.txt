@@ -1,0 +1,3 @@
+user=root
+password=annie123
+host=localhost

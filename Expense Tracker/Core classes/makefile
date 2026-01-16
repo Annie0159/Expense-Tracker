@@ -1,0 +1,3 @@
+all:
+	g++ -std=c++17 src/*.cpp -Iinclude -o app
+	./app
